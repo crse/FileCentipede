@@ -16,7 +16,7 @@ Il est conçu pour être rapide, personnalisable et convivial.
 
 Il prend en charge plusieurs protocoles et contient de nombreux outils auxiliaires utiles tels que le demandeur HTTP, la fusion de fichiers et les encodeurs.
 
-Grâce à l'intégration du navigateur, vous pouvez télécharger de l'audio et des vidéos à partir de sites Web, même des vidéos cryptées.
+Avec l'intégration du navigateur, vous pouvez télécharger de l'audio et des vidéos à partir de sites Web, même des vidéos cryptées.
 
 (C'est gratuit sans publicité)
 
@@ -190,7 +190,7 @@ Cela rendra le logiciel plus accessible aux personnes qui parlent des langues au
 | Néerlandais          | [@kasikh](https://github.com/XIAA25)                                                       |
 | coréen               | [@VénusGirl](https://github.com/VenusGirl)                                                 |
 | vietnamien           | [@vuongtuha](https://github.com/vuongtuha)                                                 |
-| turc                 | [@geeede](https://github.com/geeede)                                                       |
+| turc                 | [@geeeede](https://github.com/geeede)                                                      |
 | indonésien           | [@gigglylo](https://github.com/gigglylo)                                                   |
 
 ## Opensource libraries
