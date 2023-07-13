@@ -10,7 +10,7 @@
   <img src="./style/images/logo_128.png" width="128" alt="File Centipede Icon" />
 </a>
 
-File centipede는 올인원 인터넷 파일 업로드/다운로드 관리자, BitTorrent 클라이언트, WebDAV 클라이언트, FTP 클라이언트 및 SSH 클라이언트입니다.
+File centipede is an All-In-One internet file upload/download manager, BitTorrent Client, WebDAV client, FTP client, and SSH client.
 
 빠르고 사용자 정의가 가능하며 사용자 친화적으로 설계되었습니다.
 
@@ -107,7 +107,7 @@ File centipede는 올인원 인터넷 파일 업로드/다운로드 관리자, B
 -   HTTP,HTTPS 프로토콜(gzip, 재개 가능, 다중 연결과 같은 기본 기능은 나열되지 않음) 1.0
 -   FTP, FTPS 프로토콜 1.0
 -   자석, HASH 주소 1.0
--   BitTorrent	1.0
+-   비트토렌트 1.0
 -   Thunder, flashget, qqdl 1.0과 같은 기타 사용자 정의 프로토콜
 -   JSON 형식의 주소 1.0
 -   m3u8 스트림 작업 1.0
