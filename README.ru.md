@@ -10,7 +10,7 @@
   <img src="./style/images/logo_128.png" width="128" alt="File Centipede Icon" />
 </a>
 
-Файловая многоножка — это многофункциональный менеджер загрузки/выгрузки файлов в Интернете, клиент BitTorrent, клиент WebDAV, клиент FTP и клиент SSH.
+File Centipede — это многофункциональный менеджер загрузки/выгрузки файлов в Интернете, клиент BitTorrent, клиент WebDAV, клиент FTP и клиент SSH.
 
 Он разработан, чтобы быть быстрым, настраиваемым и удобным для пользователя.
 
@@ -190,9 +190,9 @@
 | Голландский            | [@касих](https://github.com/XIAA25)                                                      |
 | Корейский              | [@VenusGirl](https://github.com/VenusGirl)                                               |
 | вьетнамский            | [@vuongtuha](https://github.com/vuongtuha)                                               |
-| турецкий               | [@geeeede](https://github.com/geeede)                                                    |
+| турецкий               | [@geeede](https://github.com/geeede)                                                     |
 | индонезийский          | [@gigglylo](https://github.com/gigglylo)                                                 |
 
 ## Библиотеки с открытым исходным кодом
 
-[boost](https://www.boost.org)[Qt](https://qt.io/)[libtorrent](https://www.libtorrent.org)
+[способствовать росту](https://www.boost.org)[Qt](https://qt.io/)[libtorrent](https://www.libtorrent.org)
