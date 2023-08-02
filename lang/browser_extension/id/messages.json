@@ -24,10 +24,10 @@
         "message": "Batal"
     },
     "file": {
-        "message": "file"
+        "message": "berkas"
     },
     "files": {
-        "message": "file"
+        "message": "berkas"
     },
     "download_video": {
         "message": "Unduh video ini"
@@ -63,10 +63,10 @@
         "message": "Bar mengambang"
     },
     "enable": {
-        "message": "Nyalakan"
+        "message": "Aktifkan"
     },
     "disable": {
-        "message": "Matiakn"
+        "message": "Matikan"
     },
     "yes": {
         "message": "Ya"
@@ -87,7 +87,7 @@
         "message": "Tidak dapat menghubung ke "
     },
     "download_send_failed_message": {
-        "message": "baik tidak terpasang, atau tidak berjalan, pilih salah satu."
+        "message": "antara tidak terpasang, atau tidak berjalan, pilih salah satu."
     },
     "recapture_address": {
         "message": "Tangkap ulang alamat"
@@ -111,16 +111,16 @@
         "message": "Aturan"
     },
     "filename": {
-        "message": "Nama file"
+        "message": "Nama berkas"
     },
     "filetypes": {
-        "message": "Tipe file"
+        "message": "Tipe berkas"
     },
     "domain": {
         "message": "Domain"
     },
     "settings": {
-        "message": "Peraturan"
+        "message": "Pengaturan"
     },
     "others": {
         "message": "Lain"
@@ -135,13 +135,13 @@
         "message": "Tambah"
     },
     "edit": {
-        "message": "Edit"
+        "message": "Sunting"
     },
     "remove": {
-        "message": "Buang"
+        "message": "Hapus"
     },
     "clear": {
-        "message": "Bersihkan"
+        "message": "Hapus Semua"
     },
     "general": {
         "message": "Umum"
@@ -168,13 +168,13 @@
         "message": "Jangan unduh"
     },
     "capture_other_file_types": {
-        "message": "Tangkap tipe file lain"
+        "message": "Tangkap tipe berkas lain"
     },
     "file_unsuport_preview": {
-        "message": "Anda tidak dapat meninjau file ini"
+        "message": "Anda tidak dapat meninjau berkas ini"
     },
     "unsuport_m3u8_preview": {
-        "message": "Peramban web anda tidak mendukung pratinjau file m3u8."
+        "message": "Peramban web anda tidak mendukung pratinjau berkas m3u8."
     },
     "invalid_domain": {
         "message": "Domain tidak sah."
